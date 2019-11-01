@@ -21,6 +21,6 @@
 <h3>Rodando</h3>
 <ul>
 
-<li><code>yarn run android/npm run android</code></li>
+<li><code>react-native run-android</code></li>
 
 </ul>
