@@ -13,7 +13,7 @@
 <h3>Instalação</h3>
 <ul>
 
-<li><code>https://github.com/Maauricioo/OficinaApp.git</code></li>
+<li><code>git clone https://github.com/Maauricioo/OficinaApp.git</code></li>
 <li><code>yarn install/npm install</code></li>
 
 </ul>
