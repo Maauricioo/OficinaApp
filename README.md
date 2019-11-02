@@ -7,6 +7,7 @@
 
 <li>Versão do React Native: 0.59.9</li>
 <li>Foi utilizado Axios com a seguinte versão: 0.19.0</li>
+<li>Todas as telas e arquivos necessários foram criados e organizados dentro da pasta 'src'</li>
 
 </ul>
 
